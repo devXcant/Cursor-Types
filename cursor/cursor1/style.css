@@ -1,7 +1,7 @@
 body{
   width: 0;
   height: 100vh;
-  /* cursor: url(''); */
+  /* cursor: url('');  can be used to add an external cursor type from an online location*/
   background: black;
 }
 
