@@ -57,7 +57,7 @@ nav{
   color: white;
 }
 
-.front-cover {
+.front-cover img{
   position: relative;
   z-index: -3;
 }
